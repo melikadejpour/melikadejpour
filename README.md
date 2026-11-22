@@ -37,7 +37,25 @@ interactive games, and 3D environments.
 **3D Modeling**
 - Blender
 - Nomad Sculpt
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase)
+
+### Mobile
+![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin)
+![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart)
+
+### Game Development & 3D
+![Godot](https://img.shields.io/badge/Godot-black?style=for-the-badge&logo=godot-engine)
+![Blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender)
 ---
 
 ## 🚀 Featured Projects
