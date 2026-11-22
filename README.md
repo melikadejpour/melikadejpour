@@ -1,93 +1,219 @@
+<!-- ================= HEADER ================= -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,40:101A2C,75:162B45,100:483D8B&height=220&section=header&text=Melika%20Dejpour&fontSize=48&fontColor=E8EDF5&fontAlignY=38&desc=Software%20Developer%20%7C%20Digital%20Creator&descAlignY=58&descSize=17" width="100%"/>
 
 </div>
-# Hi, I'm Melika 👋
 
-### Software Developer | Full-Stack | Android | Game Development |3D Modeler
+<!-- ================= INTRO ================= -->
 
-Welcome to my GitHub!
+<h2 align="center">
+  Software Developer & Digital Creator
+</h2>
 
-I'm a Software Developer with a background
-in Biomedical Engineering.
+<p align="center">
+  Full-Stack Development • Android • Game Development • 3D Modeling
+</p>
 
-I build web applications, mobile apps,
-interactive games, and 3D environments.
+<p align="center">
+  Biomedical Engineering Graduate | Software Developer
+</p>
 
----
+<p align="center">
+  Welcome to my GitHub!
+  <br>
+  I'm Melika, a Software Developer with a background
+  in Biomedical Engineering.
+  <br>
+  I enjoy building web applications, mobile apps,
+  interactive games, and 3D environments.
+</p>
 
-## 💻 Tech Stack
+<br>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+<!-- ================= DIVIDER ================= -->
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=162B45&height=2&section=header" width="85%"/>
+</div>
 
-### Mobile
-![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin)
-![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart)
+<!-- ================= TECH STACK ================= -->
 
-### Game Development & 3D
-![Godot](https://img.shields.io/badge/Godot-black?style=for-the-badge&logo=godot-engine)
-![Blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender)
----
+<h2 align="center">⚡ Tech Stack & Skills</h2>
 
-## 🚀 Featured Projects
+<h3 align="center">Frontend Development</h3>
 
-### Full-Stack CRM Application
-React, Node.js, Express, Supabase, PostgreSQL
+<p align="center">
 
-A CRM platform featuring revenue tracking,
-customer pipeline management, and WhatsApp integration.
+<img src="https://img.shields.io/badge/React-101A2C?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-101A2C?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/HTML5-101A2C?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-101A2C?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/WordPress-101A2C?style=for-the-badge&logo=wordpress&logoColor=21759B"/>
 
-### Android Applications
-Kotlin, Dart
+</p>
 
-Mobile applications for fitness tracking
-and language learning.
+<h3 align="center">Backend & Database</h3>
 
-### 3D Cyberpunk Game
-Godot Engine, GDScript
+<p align="center">
 
-A 3D game featuring vehicle physics,
-custom UI, and real-time weather effects.
+<img src="https://img.shields.io/badge/Node.js-101A2C?style=for-the-badge&logo=nodedotjs&logoColor=68A063"/>
+<img src="https://img.shields.io/badge/Express.js-101A2C?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/PostgreSQL-101A2C?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/Supabase-101A2C?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
 
-### Web Development
-React, HTML, CSS, WordPress
+</p>
 
-Responsive websites and business web solutions.
+<h3 align="center">Mobile Development</h3>
 
----
+<p align="center">
 
-## 🎓 Education
+<img src="https://img.shields.io/badge/Kotlin-101A2C?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
+<img src="https://img.shields.io/badge/Dart-101A2C?style=for-the-badge&logo=dart&logoColor=0175C2"/>
 
-B.Sc. Biomedical Engineering (Bioelectric)
+</p>
+
+<h3 align="center">Game Development & 3D Modeling</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Godot-101A2C?style=for-the-badge&logo=godotengine&logoColor=478CBF"/>
+<img src="https://img.shields.io/badge/GDScript-101A2C?style=for-the-badge&logo=godotengine&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Blender-101A2C?style=for-the-badge&logo=blender&logoColor=F5792A"/>
+
+</p>
+
+<br>
+
+<!-- ================= DIVIDER ================= -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=483D8B&height=2&section=header" width="85%"/>
+</div>
+
+<!-- ================= PROJECTS ================= -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<h3>💻 Full-Stack CRM Application</h3>
+
+<p>
+<strong>React | Node.js | Express | Supabase | PostgreSQL</strong>
+</p>
+
+- Developed a comprehensive CRM platform.
+- Created a dynamic dashboard for revenue tracking.
+- Implemented customer pipeline and team management.
+- Integrated WhatsApp API for automated follow-ups.
+
+<h3>📱 Android Applications</h3>
+
+<p>
+<strong>Kotlin | Dart</strong>
+</p>
+
+- Developed mobile applications for fitness tracking.
+- Worked on a language learning application.
+- Exploring native and cross-platform development.
+
+<h3>🎮 3D Cyberpunk Game</h3>
+
+<p>
+<strong>Godot Engine | GDScript</strong>
+</p>
+
+- Built a 3D cyberpunk game.
+- Implemented vehicle physics and custom UI.
+- Created GPU particle systems for real-time weather effects.
+
+<h3>🌐 Web Development</h3>
+
+<p>
+<strong>React | HTML | CSS | WordPress</strong>
+</p>
+
+- Designed and developed responsive business websites.
+- Focused on modern UI and user experience.
+
+<br>
+
+<!-- ================= DIVIDER ================= -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=162B45&height=2&section=header" width="85%"/>
+</div>
+
+<!-- ================= EDUCATION ================= -->
+
+<h2 align="center">🎓 Education</h2>
+
+<p align="center">
+
+<strong>B.Sc. Biomedical Engineering (Bioelectric)</strong>
+<br>
+Islamic Azad University, Rasht Branch
+<br>
 2025
 
----
+</p>
 
-## 🌐 Connect With Me
+<br>
 
-- LinkedIn: https://linkedin.com/in/melikadejpour
-- GitHub: https://github.com/melikadejpour
-- Email: melikadejpour@gmail.com
+<!-- ================= DIVIDER ================= -->
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=483D8B&height=2&section=header" width="85%"/>
+</div>
 
-⭐ Thanks for visiting my profile!
+<!-- ================= GITHUB STATS ================= -->
 
----
+<h2 align="center">📊 GitHub Statistics</h2>
 
-## 📊 GitHub Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melikadejpour&show_icons=true&theme=transparent&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=melikadejpour&show_icons=true&theme=transparent&bg_color=080B12&title_color=9370DB&icon_color=5B9BD5&text_color=E8EDF5&border_color=162B45&hide_border=false" height="170"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melikadejpour&layout=compact&theme=transparent&title_color=D4AF37&text_color=FFFFFF&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikadejpour&layout=compact&theme=transparent&bg_color=080B12&title_color=9370DB&text_color=E8EDF5&border_color=162B45&hide_border=false" height="170"/>
+
+</div>
+
+<br>
+
+<!-- ================= DIVIDER ================= -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=162B45&height=2&section=header" width="85%"/>
+</div>
+
+<!-- ================= CONTACT ================= -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/melikadejpour">
+<img src="https://img.shields.io/badge/LinkedIn-101A2C?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://github.com/melikadejpour">
+<img src="https://img.shields.io/badge/GitHub-101A2C?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="mailto:melikadejpour@gmail.com">
+<img src="https://img.shields.io/badge/Email-101A2C?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+</p>
+
+<br>
+
+<!-- ================= FOOTER ================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:483D8B,50:162B45,100:080B12&height=120&section=footer"/>
+
+<strong>Thanks for visiting my profile!</strong>
+
+</div>
