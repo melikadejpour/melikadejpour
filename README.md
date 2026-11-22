@@ -78,3 +78,11 @@ B.Sc. Biomedical Engineering (Bioelectric)
 ---
 
 ⭐ Thanks for visiting my profile!
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melikadejpour&show_icons=true&theme=transparent&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melikadejpour&layout=compact&theme=transparent&title_color=D4AF37&text_color=FFFFFF&hide_border=true)
