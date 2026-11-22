@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:171717,100:D4AF37&height=200&section=header&text=Melika%20Dejpour&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=18" width="100%"/>
+
+</div>
 # Hi, I'm Melika 👋
 
 ### Software Developer | Full-Stack | Android | Game Development |3D Modeler
