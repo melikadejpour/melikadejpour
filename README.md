@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:171717,100:D4AF37&height=200&section=header&text=Melika%20Dejpour&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,40:101A2C,75:162B45,100:483D8B&height=220&section=header&text=Melika%20Dejpour&fontSize=48&fontColor=E8EDF5&fontAlignY=38&desc=Software%20Developer%20%7C%20Digital%20Creator&descAlignY=58&descSize=17" width="100%"/>
 
 </div>
 # Hi, I'm Melika 👋
