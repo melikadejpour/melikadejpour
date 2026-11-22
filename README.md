@@ -14,29 +14,6 @@ interactive games, and 3D environments.
 
 ## 💻 Tech Stack
 
-**Frontend**
-- React
-- JavaScript
-- HTML
-- CSS
-
-**Backend & Database**
-- Node.js
-- Express.js
-- Supabase
-- PostgreSQL
-
-**Mobile Development**
-- Kotlin
-- Dart
-
-**Game Development**
-- Godot Engine
-- GDScript
-
-**3D Modeling**
-- Blender
-- Nomad Sculpt
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
